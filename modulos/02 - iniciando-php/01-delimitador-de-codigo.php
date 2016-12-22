@@ -17,7 +17,5 @@ echo '<hr>'; // quebra de linha
 echo "Olá Mundo meu nome é: {$nome}<br>";
 
 
-// outro comando de saída é o PRINT
-exemplo
-print("$nome");
+
 ?>
